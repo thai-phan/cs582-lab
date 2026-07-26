@@ -1,6 +1,6 @@
 # cs582-lab
 
-CS582 Machine Learning Group 2 members:
+MIU CS582 Machine Learning Group 2 members:
   
   - Hong Thai Phan
   - Hoang Thien Bao Bui
